@@ -1,4 +1,4 @@
-//To find out whether the given String is Palindrome or not.
+package com.ankit.conditionsandloops;//To find out whether the given String is Palindrome or not.
 import java.util.Scanner;
 public class Main{
     public static void main (String[] args) {

@@ -1,4 +1,4 @@
-package com.ankit;
+package com.ankit.conditionsandloops;
 
 import java.util.Scanner;
 
